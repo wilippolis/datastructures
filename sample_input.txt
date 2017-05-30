@@ -1,0 +1,23 @@
+add byung  11:30:14:02:28:08  5   5000000  0 
+add isaac  12:30:14:02:28:08 10  15000000  0 
+add sonah  14:30:14:02:28:08  8  10000000  0 
+add george 20:30:14:02:28:08  3  30000000  0 
+print_next 
+find_next 
+status 
+print_next 
+print_next 
+print_next 
+add jane   11:31:14:02:28:08  5    5000000  0 
+add joe    12:31:14:02:28:08  3   15000000  0 
+add jill   14:31:14:02:28:08  9   10000000  0 
+add jane   21:31:14:02:28:08  9    5000000  0 
+status 
+cancel jane 
+status 
+cancel byung 
+cancel 7 
+cancel 6 
+status 
+print_next
+status
